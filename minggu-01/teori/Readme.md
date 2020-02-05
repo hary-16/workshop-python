@@ -21,6 +21,7 @@ Python memungkinkan program ditulis secara ringkas dan mudah dibaca. Program yan
 			Untuk menampilkan semua karakter ini dengan benar, editor yang digunakan harus mengenali bahwa file tersebut adalah UTF-8, dan itu harus menggunakan font yang mendukung semua karakter dalam file.
 
 3.An Informal Introduction to Python
+
 Pada python dapat mengetikkan ekspresi dan akan menulis nilainya.Sintaksis ekspresi mudah: operator + , - , * dan / bekerja sama seperti di sebagian besar bahasa lain (misalnya, Pascal atau C); tanda kurung ( () ) dapat digunakan untuk pengelompokan.
 Selain angka, Python juga dapat memanipulasi string, yang dapat diekspresikan dalam beberapa cara. Mereka dapat dilampirkan dalam tanda kutip tunggal ( '...' ) atau tanda kutip ganda ( "..." ) dengan hasil yang sama 2 . \ dapat digunakan untuk menghindari kutipan
 	
